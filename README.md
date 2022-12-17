@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Description app 
+List TODO created with react, hooks and useEfecct and class Bootstrap 5 (cdn)
 ## Available Scripts
 
 In the project directory, you can run:
